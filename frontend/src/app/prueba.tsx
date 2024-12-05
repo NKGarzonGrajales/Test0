@@ -2,7 +2,9 @@ import React from 'react'
 
 const Prueba = () => {
   return (
-    <div className='text-6xl'>Prueba</div>
+    <div className='text-6xl'>
+        Prueba
+        </div>
   )
 }
 
